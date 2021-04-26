@@ -1,6 +1,6 @@
 module.exports = {
     hlds: {
-        server_name: 'Fake HLDS by kalle',
+        server_name: 'Fake HLDS',
         server_players: '15',
         server_maxplayers: '24',
         bots: '2',
